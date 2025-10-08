@@ -14,7 +14,7 @@
   <tr>
     <td><strong>Libft</strong></td>
     <td>Tu primera biblioteca en C: funciones estándar y utilidades personalizadas.</td>
-    <td><a href="./libft">📁 Ver</a></td>
+    <td><a href="https://github.com/jocorrea42/libft">📁 Ver</a></td>
   </tr>
 </table>
 
