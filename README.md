@@ -1,57 +1,96 @@
 <h1 align="center">🧭 Common Core – 42 Barcelona</h1>
 
 <p align="center">
-  Repositorio con todos los proyectos del <strong>Common Core</strong> realizados por <a href="https://github.com/jocorrea42">jocorrea42</a> en <strong>42 Barcelona</strong>.
+  Proyectos realizados por <a href="https://github.com/jocorrea42">jocorrea42</a> durante el cursus de <strong>42 Barcelona</strong>.<br>
+  Organizados por círculos del <strong>Common Core</strong>.
 </p>
 
 ---
 
-<h2>🧩 Proyectos</h2>
+<h2>⚪ Círculo 0</h2>
 
 <table>
+  <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
   <tr>
-    <th>Proyecto</th>
-    <th>Descripción</th>
-    <th>Enlace</th>
-  </tr>
-  <tr>
-    <td><strong>libft</strong></td>
-    <td>Biblioteca en C con funciones estándar y utilidades propias.</td>
+    <td><strong>Libft</strong></td>
+    <td>Tu primera biblioteca en C: funciones estándar y utilidades personalizadas.</td>
     <td><a href="./libft">📁 Ver</a></td>
   </tr>
+</table>
+
+---
+
+<h2>🟢 Círculo 1</h2>
+
+<table>
+  <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
   <tr>
     <td><strong>get_next_line</strong></td>
-    <td>Función para leer líneas completas desde un descriptor de archivo.</td>
+    <td>Lectura de líneas desde un descriptor de archivo con buffers dinámicos.</td>
     <td><a href="./get_next_line">📁 Ver</a></td>
   </tr>
   <tr>
     <td><strong>ft_printf</strong></td>
-    <td>Reimplementación de <code>printf</code> con soporte de flags y conversiones.</td>
+    <td>Reimplementación de <code>printf</code> con manejo de flags y conversiones.</td>
     <td><a href="./ft_printf">📁 Ver</a></td>
   </tr>
   <tr>
-    <td><strong>minitalk</strong></td>
-    <td>Comunicación entre procesos mediante señales en C.</td>
-    <td><a href="./minitalk">📁 Ver</a></td>
+    <td><strong>Born2beroot</strong></td>
+    <td>Administración y configuración de un servidor Linux seguro (máquina virtual Debian).</td>
+    <td><em>No disponible</em></td>
   </tr>
+</table>
+
+---
+
+<h2>🟣 Círculo 2</h2>
+
+<table>
+  <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
   <tr>
-    <td><strong>philosophers42</strong></td>
-    <td>Problema clásico de concurrencia con threads y mutexes.</td>
-    <td><a href="./philosophers42">📁 Ver</a></td>
+    <td><strong>so_long</strong></td>
+    <td>Mini juego 2D con la librería gráfica <code>minilibx</code>.</td>
+    <td><em>No disponible</em></td>
   </tr>
   <tr>
     <td><strong>push_swap</strong></td>
-    <td>Ordenación de números usando dos pilas y un conjunto limitado de operaciones.</td>
+    <td>Algoritmo de ordenación optimizado con operaciones sobre dos pilas.</td>
     <td><a href="./push_swap">📁 Ver</a></td>
   </tr>
   <tr>
-    <td><strong>minishell</strong></td>
-    <td>Mini shell con ejecución de comandos, pipes y redirecciones.</td>
-    <td><a href="./minishell">📁 Ver</a></td>
+    <td><strong>minitalk</strong></td>
+    <td>Comunicación entre procesos usando señales (<code>SIGUSR1</code>/<code>SIGUSR2</code>).</td>
+    <td><a href="./minitalk">📁 Ver</a></td>
+  </tr>
+</table>
+
+---
+
+<h2>🟡 Círculo 3</h2>
+
+<table>
+  <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
+  <tr>
+    <td><strong>philosophers</strong></td>
+    <td>El clásico problema de los filósofos comensales, usando hilos y mutexes.</td>
+    <td><a href="./philosophers42">📁 Ver</a></td>
   </tr>
   <tr>
+    <td><strong>minishell</strong></td>
+    <td>Creación de un shell con parsing, pipes, redirecciones y ejecución de comandos.</td>
+    <td><a href="./minishell">📁 Ver</a></td>
+  </tr>
+</table>
+
+---
+
+<h2>🟠 Círculo 4</h2>
+
+<table>
+  <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
+  <tr>
     <td><strong>cub3d</strong></td>
-    <td>Motor 3D simple tipo Wolfenstein usando raycasting.</td>
+    <td>Motor gráfico 3D tipo Wolfenstein, implementando raycasting.</td>
     <td><a href="./cub3d">📁 Ver</a></td>
   </tr>
   <tr>
@@ -59,33 +98,97 @@
     <td>Visualización de mapas 3D en proyección isométrica (wireframe).</td>
     <td><a href="./FDF">📁 Ver</a></td>
   </tr>
+</table>
+
+---
+
+<h2>🔵 Círculo 5</h2>
+
+<table>
+  <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
+  <tr>
+    <td><strong>NetPractice</strong></td>
+    <td>Ejercicios interactivos para aprender sobre redes y direccionamiento IP.</td>
+    <td><em>No disponible</em></td>
+  </tr>
   <tr>
     <td><strong>C++ Modules</strong></td>
-    <td>Proyectos introductorios a la programación orientada a objetos.</td>
+    <td>Introducción a la programación orientada a objetos: clases, herencia y más.</td>
     <td><a href="./C++">📁 Ver</a></td>
   </tr>
 </table>
 
 ---
 
-<h2>📂 Estructura</h2>
+<h2>🟤 Círculo 6</h2>
+
+<table>
+  <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
+  <tr>
+    <td><strong>ft_irc</strong></td>
+    <td>Implementación de un servidor IRC siguiendo el protocolo RFC2812.</td>
+    <td><em>No disponible</em></td>
+  </tr>
+  <tr>
+    <td><strong>webserv</strong></td>
+    <td>Servidor HTTP con soporte para múltiples conexiones y configuración dinámica.</td>
+    <td><em>No disponible</em></td>
+  </tr>
+</table>
+
+---
+
+<h2>🔴 Círculo 7</h2>
+
+<table>
+  <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
+  <tr>
+    <td><strong>Inception</strong></td>
+    <td>Infraestructura con Docker y NGINX, WordPress y MariaDB en contenedores.</td>
+    <td><em>No disponible</em></td>
+  </tr>
+</table>
+
+---
+
+<h2>🌐 Círculo 8</h2>
+
+<table>
+  <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
+  <tr>
+    <td><strong>ft_transcendence</strong></td>
+    <td>Proyecto final full-stack con autenticación, chat y Pong online.</td>
+    <td><em>No disponible</em></td>
+  </tr>
+</table>
+
+---
+
+<h2>🧭 Estructura del repositorio</h2>
 
 <pre>
 common-core-42/
 ├── libft/
 ├── get_next_line/
 ├── ft_printf/
+├── born2beroot/ (pendiente)
+├── so_long/ (pendiente)
+├── push_swap/
 ├── minitalk/
 ├── philosophers42/
-├── push_swap/
 ├── minishell/
 ├── cub3d/
 ├── FDF/
-└── C++/
+├── NetPractice/ (pendiente)
+├── C++/
+├── ft_irc/ (pendiente)
+├── webserv/ (pendiente)
+├── Inception/ (pendiente)
+└── ft_transcendence/ (pendiente)
 </pre>
 
 ---
 
 <p align="center">
-  © 2025 <a href="https://github.com/jocorrea42">jocorrea42</a> · 42 Barcelona
+  © 2025 <a href="https://github.com/jocorrea42">jocorrea42</a> · 42 Barcelona Common Core
 </p>
