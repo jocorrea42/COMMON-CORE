@@ -49,7 +49,7 @@
   <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
   <tr>
     <td><strong>FDF</strong></td>
-    <td>Lector de mapas con isometria <code>minilibx</code>.</td>
+    <td>Visualización de mapas 3D en proyección isométrica (wireframe)<code>minilibx</code>.</td>
     <td><a href="https://github.com/jocorrea42/FDF">📁 Ver</a></td>
     
   </tr>
@@ -92,15 +92,19 @@
   <tr>
     <td><strong>cub3d</strong></td>
     <td>Motor gráfico 3D tipo Wolfenstein, implementando raycasting.</td>
-    <td><a href="./cub3d">📁 Ver</a></td>
+    <td><a href="https://github.com/jocorrea42/cub3d">📁 Ver</a></td>
   </tr>
   <tr>
-    <td><strong>FDF</strong></td>
-    <td>Visualización de mapas 3D en proyección isométrica (wireframe).</td>
-    <td><a href="./FDF">📁 Ver</a></td>
+    <td><strong>C++ Modules 1</strong></td>
+    <td>Introducción a la programación orientada a objetos: clases, herencia y más.</td>
+    <td><a href="https://github.com/jocorrea42/Cpp-Module1">📁 Ver</a></td>
   </tr>
 </table>
-
+<tr>
+    <td><strong>NetPractice</strong></td>
+    <td>Ejercicios interactivos para aprender sobre redes y direccionamiento IP.</td>
+    <td><em>No disponible</em></td>
+</tr>
 ---
 
 <h2>🔵 Círculo 5</h2>
@@ -108,14 +112,19 @@
 <table>
   <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
   <tr>
-    <td><strong>NetPractice</strong></td>
-    <td>Ejercicios interactivos para aprender sobre redes y direccionamiento IP.</td>
-    <td><em>No disponible</em></td>
+    <td><strong>ft_irc</strong></td>
+    <td>Implementación de un servidor IRC siguiendo el protocolo RFC2812.</td>
+   <td><a href="https://github.com/jocorrea42/ft_irc">📁 Ver</a></td>
   </tr>
   <tr>
     <td><strong>C++ Modules</strong></td>
     <td>Introducción a la programación orientada a objetos: clases, herencia y más.</td>
-    <td><a href="./C++">📁 Ver</a></td>
+    <td><a href="https://github.com/jocorrea42/Cpp-Module2">📁 Ver</a></td>
+  </tr>
+  <tr>
+    <td><strong>Inception</strong></td>
+    <td>Infraestructura con Docker y NGINX, WordPress y MariaDB en contenedores.</td>
+    <td><a href="https://github.com/jocorrea42/inception">📁 Ver</a></td>
   </tr>
 </table>
 
@@ -125,42 +134,11 @@
 
 <table>
   <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
-  <tr>
-    <td><strong>ft_irc</strong></td>
-    <td>Implementación de un servidor IRC siguiendo el protocolo RFC2812.</td>
-    <td><em>No disponible</em></td>
-  </tr>
-  <tr>
-    <td><strong>webserv</strong></td>
-    <td>Servidor HTTP con soporte para múltiples conexiones y configuración dinámica.</td>
-    <td><em>No disponible</em></td>
-  </tr>
-</table>
-
----
-
-<h2>🔴 Círculo 7</h2>
-
-<table>
-  <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
-  <tr>
-    <td><strong>Inception</strong></td>
-    <td>Infraestructura con Docker y NGINX, WordPress y MariaDB en contenedores.</td>
-    <td><em>No disponible</em></td>
-  </tr>
-</table>
-
----
-
-<h2>🌐 Círculo 8</h2>
-
-<table>
-  <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
-  <tr>
+    <tr>
     <td><strong>ft_transcendence</strong></td>
     <td>Proyecto final full-stack con autenticación, chat y Pong online.</td>
-    <td><em>No disponible</em></td>
-  </tr>
+      <td><a href="https://github.com/jocorrea42/Transcendence1">📁 Ver</a></td>
+  </tr>  
 </table>
 
 ---
@@ -182,10 +160,10 @@ common-core-42/
 ├── FDF/
 ├── NetPractice/ (pendiente)
 ├── C++/
-├── ft_irc/ (pendiente)
+├── ft_irc/
 ├── webserv/ (pendiente)
-├── Inception/ (pendiente)
-└── ft_transcendence/ (pendiente)
+├── Inception/ 
+└── ft_transcendence/
 </pre>
 
 ---
