@@ -27,12 +27,12 @@
   <tr>
     <td><strong>get_next_line</strong></td>
     <td>Lectura de líneas desde un descriptor de archivo con buffers dinámicos.</td>
-    <td><a href="./get_next_line">📁 Ver</a></td>
+    <td><a href="https://github.com/jocorrea42/get_next_line">📁 Ver</a></td>
   </tr>
   <tr>
     <td><strong>ft_printf</strong></td>
     <td>Reimplementación de <code>printf</code> con manejo de flags y conversiones.</td>
-    <td><a href="./ft_printf">📁 Ver</a></td>
+    <td><a href="https://github.com/jocorrea42/ft_printf">📁 Ver</a></td>
   </tr>
   <tr>
     <td><strong>Born2beroot</strong></td>
@@ -48,19 +48,20 @@
 <table>
   <tr><th>Proyecto</th><th>Descripción</th><th>Enlace</th></tr>
   <tr>
-    <td><strong>so_long</strong></td>
-    <td>Mini juego 2D con la librería gráfica <code>minilibx</code>.</td>
-    <td><em>No disponible</em></td>
+    <td><strong>FDF</strong></td>
+    <td>Lector de mapas con isometria <code>minilibx</code>.</td>
+    <td><a href="https://github.com/jocorrea42/FDF">📁 Ver</a></td>
+    
   </tr>
   <tr>
     <td><strong>push_swap</strong></td>
     <td>Algoritmo de ordenación optimizado con operaciones sobre dos pilas.</td>
-    <td><a href="./push_swap">📁 Ver</a></td>
+    <td><a href="https://github.com/jocorrea42/push_swap">📁 Ver</a></td>
   </tr>
   <tr>
     <td><strong>minitalk</strong></td>
     <td>Comunicación entre procesos usando señales (<code>SIGUSR1</code>/<code>SIGUSR2</code>).</td>
-    <td><a href="./minitalk">📁 Ver</a></td>
+    <td><a href="https://github.com/jocorrea42/minitalk">📁 Ver</a></td>
   </tr>
 </table>
 
@@ -73,12 +74,12 @@
   <tr>
     <td><strong>philosophers</strong></td>
     <td>El clásico problema de los filósofos comensales, usando hilos y mutexes.</td>
-    <td><a href="./philosophers42">📁 Ver</a></td>
+    <td><a href="https://github.com/jocorrea42/philosophers">📁 Ver</a></td>
   </tr>
   <tr>
     <td><strong>minishell</strong></td>
     <td>Creación de un shell con parsing, pipes, redirecciones y ejecución de comandos.</td>
-    <td><a href="./minishell">📁 Ver</a></td>
+    <td><a href="https://github.com/jocorrea42/minishell">📁 Ver</a></td>
   </tr>
 </table>
 
