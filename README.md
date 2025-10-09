@@ -159,7 +159,7 @@ common-core-42/
 ├── minishell/
 ├── cub3d/
 ├── FDF/
-├── NetPractice/ (pendiente)
+├── NetPractice/
 ├── C++/
 ├── ft_irc/
 ├── webserv/ (pendiente)
