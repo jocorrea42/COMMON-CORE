@@ -99,12 +99,13 @@
     <td>Introducción a la programación orientada a objetos: clases, herencia y más.</td>
     <td><a href="https://github.com/jocorrea42/Cpp-Module1">📁 Ver</a></td>
   </tr>
-</table>
-<tr>
+  <tr>
     <td><strong>NetPractice</strong></td>
     <td>Ejercicios interactivos para aprender sobre redes y direccionamiento IP.</td>
-    <td><em>No disponible</em></td>
+   <td><a href="https://github.com/jocorrea42/NetPractice">📁 Ver</a></td>
 </tr>
+</table>
+
 ---
 
 <h2>🔵 Círculo 5</h2>
